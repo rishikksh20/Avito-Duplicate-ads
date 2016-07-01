@@ -4,3 +4,7 @@
 # Kaggle Competition 
 In this competition, you will predict whether pairs of ads are duplicates.
 For more info visit: https://www.kaggle.com/c/avito-duplicate-ads-detection
+
+# Source
+Initially the repo code copied from this link: https://www.kaggle.com/zfturbo/avito-duplicate-ads-detection/python-xgboost-starter authored by ZFTurbo.
+
